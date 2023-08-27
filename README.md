@@ -12,9 +12,17 @@ I'm Vickson , a software engineer with a passion for creating immersive experien
 
 ## :pushpin: Pinned Repositories
 
-### Websites
+### Websites <img src="https://img.icons8.com/?size=512&id=19293&format=png" alt="Node" align=left width=30>
+
+
+#### Full Stack Projects 
 
 [![RedPanda](https://github-readme-stats.vercel.app/api/pin?username=vicksonrodrigues&repo=RedPanda&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/vicksonrodrigues/RedPanda)
+
+#### Front-End Projects
+
+[![CoviConnect](https://github-readme-stats.vercel.app/api/pin?username=vicksonrodrigues&repo=coviconnect&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/vicksonrodrigues/coviconnect)
+
 
 ### Video Games
 
