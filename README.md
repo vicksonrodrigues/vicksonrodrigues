@@ -8,9 +8,7 @@
     <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" />
 </p>
 
-I'm Vickson , a software engineer with a passion for creating immersive experiences, I specialize in full-stack development and video game development. With expertise in languages such as JavaScript and C#, I thrive on bringing ideas to life through creative and efficient coding. Whether building sleek web applications or crafting exciting games, I am dedicated to delivering innovative solutions that exceed expectations.
-
-## :pushpin: Pinned Repositories
+I'm Vickson, a full stack developer with hands-on experience in building scalable web applications. Skilled in JavaScript, React, Node.js, and Express, I focus on writing clean, maintainable code and delivering user-friendly solutions. Passionate about learning new technologies and improving my backend and frontend skills to create impactful software.
 
 ### Websites <img src="https://img.icons8.com/?size=512&id=19293&format=png" alt="Node" align=left width=30>
 
